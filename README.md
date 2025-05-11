@@ -1,5 +1,5 @@
 # 💫 About Me:
-Yall am currently a third-year undergraduate student actively seeking an internship <br>opportunity <br>Im good at Java<br> <br>As far as i know im also good at creating a clean minimalistic websites <br>Currently learning about Devops in AWS <br>
+Yall am currently a third-year undergraduate student actively seeking an internship <br>opportunity <br>Im good at Java<br>As far as i know im also good at creating a clean minimalistic websites <br>Currently learning about Devops in AWS <br>
 
 
 ## 🌐 Socials:
